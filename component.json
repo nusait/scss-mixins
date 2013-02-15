@@ -2,5 +2,5 @@
   "name": "scss-mixins",
   "version": "0.0.1",
   "main": "mixin-display-flex.scss",
-  "dependencies": {}
+  "dependencies": {} 
 }
