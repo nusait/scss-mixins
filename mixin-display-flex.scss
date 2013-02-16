@@ -18,7 +18,7 @@ http://dev.opera.com/articles/view/flexbox-basics/
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
-  } else {
+  } @else {
     display: $prop;
   }
 }
