@@ -1,6 +1,6 @@
 {
   "name": "scss-mixins",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "main": "mixin-display-flex.scss",
   "dependencies": {}
 }
