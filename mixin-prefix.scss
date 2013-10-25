@@ -1,0 +1,7 @@
+@mixin prefix($instruction, $value) {
+	-webkit-#{$instruction}: $value;
+	-moz-#{$instruction}: $value;
+	-o-#{$instruction}: $value;
+	-ms-#{$instruction}: $value;
+	#{$instruction}: $value;
+}
